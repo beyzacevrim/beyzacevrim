@@ -2,9 +2,8 @@
 <h3 align="center">A passionate CS student from Turkiye</h3>
 <img align="right" alt="Coding" width="370" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzacevrim&label=Profile%20views&color=0e75b6&style=flat" alt="beyzacevrim" /> </p>
 
-- 🌱 I’m currently learning **Object Oriented Programming**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **beyzacevrim1907@gmail.com**
 
