@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Beyza Çevrim</h1>
-<h3 align="center">A passionate CS student from Turkiye</h3>
+<h3 align="center">A software developer from Turkiye</h3>
 <img align="right" alt="Coding" width="370" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱I'm a passionate web developer. 
 
 - 📫 How to reach me **beyzacevrim1907@gmail.com**
 
