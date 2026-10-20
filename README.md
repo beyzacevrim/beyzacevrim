@@ -1,22 +1,37 @@
-<h1 align="center">Hi 👋🏻, I'm Beyza Çevrim</h1>
-<h3 align="center">A software developer from Turkiye</h3>
-<img align="right" alt="Coding" width="370" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 
+# Hi, I'm Beyza Çevrim 👋
 
-- 🌱I'm a passionate web developer. 
+### Computer Engineer | Full-Stack Web Developer
 
-- 📫 How to reach me **beyzacevrim1907@gmail.com**
+I'm a Computer Engineering graduate currently pursuing a Master's degree in Electrical and Electronics Engineering. I work as a Full-Stack Web Developer at KOBİZON, building and maintaining web applications for business process automation and digital transformation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/beyza çevrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyza çevrim" height="30" width="40" /></a>
-<a href="https://instagram.com/beyzacevrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beyzacevrim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/beyzacevrim1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beyzacevrim1907" height="30" width="40" /></a>
-</p>
+### 👩‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45"/> </a> </p>
+- 💼 Currently working on web application development and maintenance.
+- 🎓 B.Sc. in Computer Engineering (2025).
+- 📚 M.Sc. student in Electrical and Electronics Engineering (expected 2027).
+- 🔧 Experienced with JavaScript, React.js, Node.js, Express.js, and MongoDB.
+- 💻 Previous hands-on experience with C#, ASP.NET Core, and ASP.NET MVC.
+- 🧠 Academic interests include machine learning and optimization algorithms.
+- 🌍 Interested in software engineering opportunities and collaborative technology projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beyzacevrim&show_icons=true&locale=en&layout=compact" alt="beyzacevrim" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=beyzacevrim&show_icons=true&locale=en" alt="beyzacevrim" /></p>
+**Frontend:** JavaScript, React.js, HTML5, CSS3, Tailwind CSS
+
+**Backend:** Node.js, Express.js, C#, ASP.NET Core, ASP.NET MVC
+
+**Database & APIs:** MongoDB, REST APIs
+
+**Tools & Platforms:** Git, GitHub, Linux, PM2
+
+### 🚀 Featured Projects
+
+- **[Project Name]** — Brief overview of the project, its purpose, and the technologies used.
+- **[Project Name]** — A web application demonstrating frontend and backend development.
+- **Heart Disease Classification** — Academic project exploring LSTM and metaheuristic optimization algorithms, including PSO, GA, and GWO.
+
+### 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/beyzacevrim/)
+- [GitHub](https://github.com/beyzacevrim)
