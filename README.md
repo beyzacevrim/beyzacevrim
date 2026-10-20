@@ -25,12 +25,6 @@ I'm a Computer Engineering graduate currently pursuing a Master's degree in Elec
 
 **Tools & Platforms:** Git, GitHub, Linux, PM2
 
-### 🚀 Featured Projects
-
-- **[Project Name]** — Brief overview of the project, its purpose, and the technologies used.
-- **[Project Name]** — A web application demonstrating frontend and backend development.
-- **Heart Disease Classification** — Academic project exploring LSTM and metaheuristic optimization algorithms, including PSO, GA, and GWO.
-
 ### 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/beyzacevrim/)
